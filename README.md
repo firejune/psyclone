@@ -1,3 +1,5 @@
+# Electron Starter Kit
+
 ### Install dependencies
 
 ```
