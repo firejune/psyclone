@@ -1,0 +1,8 @@
+.DS_Store
+build/
+dist/
+app/host/project/store/
+app/host/db/
+cache/
+node_modules/
+npm-debug.log

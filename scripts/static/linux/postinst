@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+chmod +x /opt/Muki/Muki
+ln -s -f /opt/Muki/Muki /usr/bin/muki
